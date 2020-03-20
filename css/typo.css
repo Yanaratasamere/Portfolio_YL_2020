@@ -1,0 +1,27 @@
+
+body{
+  font-family: sans-serif;
+    text-align: center;
+}
+h0{
+  font-family: avenir-black;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+h1{
+  font-family: avenir-black;
+  font-size: 4em;
+  margin-bottom: 1em;
+
+}
+h2{
+  font-size: 3em;
+  margin-bottom: 0.65em;
+  font-family: avenir;
+}
+
+
+figcaption{
+  font-size: 0.75em;
+  font-style: italic;
+}
